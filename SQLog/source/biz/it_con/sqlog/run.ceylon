@@ -3,6 +3,6 @@ shared void run() {
 	//TODO command line processing
 	value arg = process.arguments;
 	print(arg);
-	value log = SQLog();
+	value log = SQLog("~/sqlog/sqlog");
 	log.createDB();
 }

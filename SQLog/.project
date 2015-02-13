@@ -17,6 +17,10 @@
 					<key>explodeModules</key>
 					<value>true</value>
 				</dictionary>
+				<dictionary>
+					<key>systemRepo</key>
+					<value></value>
+				</dictionary>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
